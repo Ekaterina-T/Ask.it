@@ -1,0 +1,7 @@
+@import url(./__item/login-toolbar__item.css);
+
+@media screen and (max-width : 740px) {
+  .login-toolbar {
+    display: none
+  }
+}

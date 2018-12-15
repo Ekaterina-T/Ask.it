@@ -1,0 +1,11 @@
+@import url(./__menu-toggle/header__menu-toogle.css);
+
+.header {
+    height: 195px;
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}

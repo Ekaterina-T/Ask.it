@@ -1,0 +1,19 @@
+.login-toolbar__item {
+    margin-right: 10px;
+}
+
+.login-toolbar__item a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.login-toolbar__item img {
+    display: block;
+    width: 34px;
+    height: 37px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}

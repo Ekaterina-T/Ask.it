@@ -1,0 +1,8 @@
+.header__menu-toogle {
+    background-image: url(menu-toggle.png);
+    background-repeat: no-repeat;
+    width: 58px;
+    height: 58px;
+    cursor: pointer;
+    display: none;
+}

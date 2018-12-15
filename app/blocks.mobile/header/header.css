@@ -1,0 +1,8 @@
+@import url(./__menu-toggle/header__menu-toogle.css);
+
+@media screen and (max-width: 740px) {
+    .header {
+        position: relative;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,21 @@
+.nav-menu__item {
+    height: inherit;
+}
+.nav-menu__item a {
+    display: block;
+    height: inherit;
+    box-sizing: border-box;
+    border-top: 2px solid transparent;
+    padding: 0px 10px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 195px;
+    white-space: nowrap;
+}
+
+.nav-menu__item a:hover {
+    border-top: 2px solid #ffffff;
+    background-color: #161616;
+    text-shadow: 1px 0px 0px white;
+}
